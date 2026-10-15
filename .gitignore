@@ -1,0 +1,17 @@
+# Generated Flex/Bison files
+lex.yy.c
+*.tab.c
+*.tab.h
+y.tab.c
+y.tab.h
+
+# Compiled executables and object files
+*.exe
+*.o
+a.out
+
+# Editor/OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

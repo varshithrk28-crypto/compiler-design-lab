@@ -1,0 +1,11 @@
+QUICK START
+============
+1. Open MSYS2 UCRT64.
+2. Install tools:
+   pacman -S --needed mingw-w64-ucrt-x86_64-gcc flex bison git
+3. Enter a program folder using cd.
+4. For a .c program:
+   gcc filename.c -o program.exe
+   ./program.exe
+5. For a Flex + Bison program, use the commands in README.md.
+6. In MSYS2 on Windows, finish terminal input with Ctrl+Z then Enter.
